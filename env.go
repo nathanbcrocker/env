@@ -1,5 +1,4 @@
-// env.go
-package main
+package env
 
 import (
 	"bufio"

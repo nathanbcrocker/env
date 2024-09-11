@@ -23,7 +23,6 @@ go.work.sum
 
 # env file
 .env
-env
 DS_Store
 .idea
 .vscode
